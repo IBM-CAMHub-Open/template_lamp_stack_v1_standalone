@@ -1,7 +1,7 @@
 {
     "name": "LAMP Deployment on a single virtual machine - Amazon EC2",
     "description": "This template deploys Oracle MySQL Database V5.7 and Apache HTTP Server V2.4 on a Linux virtual machine.",
-    "version": "2.0",
+    "version": "2.1",
     "imageUrl": "",
     "image": "",
     "type": "chefcontent",
