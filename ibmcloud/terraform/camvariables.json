@@ -475,6 +475,15 @@
         {
           "value": "dal10",
           "label": "Dallas 10, USA"
+        },  
+        {
+          "value": "dal12",
+          "label": "Dallas 12, USA"
+        },
+        {
+          "value": "dal13",
+          "label": "Dallas 13, USA",
+          "default": "true"
         },
         {
           "value": "fra02",
