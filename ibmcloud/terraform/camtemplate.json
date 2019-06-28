@@ -23,7 +23,6 @@
       }
     },
     "metadata": {
-      "displayName": "LAMP Deployment on a single virtual machine",
       "providerDisplayName": "IBM",
       "longDescription": "This template deploys Oracle MySQL Database V5.7 and Apache HTTP Server V2.4 on a Linux virtual machine.",
       "bullets": [{
